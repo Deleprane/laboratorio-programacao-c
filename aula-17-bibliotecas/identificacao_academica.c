@@ -1,8 +1,3 @@
-/*
- * Aula 17 - 3a Questao
- * Identificacao de cursos (CC ou SI) e mensagem personalizada
- * para o estudante usando strcmp, strlen, strcpy e strcat.
- */
 #include <stdio.h>
 #include <string.h>
 

@@ -1,8 +1,3 @@
-/*
- * Aula 18 - 5a Questao
- * Relatorio com separadores visuais usando a funcao
- * exibirLinha() (sem parametros e sem retorno).
- */
 #include <stdio.h>
 
 void exibirLinha(void) {

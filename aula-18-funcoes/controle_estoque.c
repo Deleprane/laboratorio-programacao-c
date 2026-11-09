@@ -1,8 +1,3 @@
-/*
- * Aula 18 - 4a Questao
- * Calcula a quantidade de produtos apos duplicar o estoque
- * usando a funcao dobro().
- */
 #include <stdio.h>
 
 int dobro(int quantidade) {

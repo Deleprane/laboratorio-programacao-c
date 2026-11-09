@@ -1,8 +1,3 @@
-/*
- * Aula 18 - 2a Questao
- * Comparador de precos de dois produtos usando a
- * funcao maiorPreco(), que recebe os valores e retorna o maior.
- */
 #include <stdio.h>
 
 float maiorPreco(float preco1, float preco2) {

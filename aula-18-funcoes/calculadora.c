@@ -1,8 +1,3 @@
-/*
- * Aula 18 - 1a Questao
- * Calculadora simples com funcoes (soma, subtracao,
- * multiplicacao e divisao), menu com switch e do...while.
- */
 #include <stdio.h>
 
 void exibirMenu(void);

@@ -1,11 +1,3 @@
-/*
- * Aula 16 - Atividade para entrega
- * Desafio: Contador de caracteres
- *
- * Recebe uma palavra, percorre seus caracteres com for
- * e apresenta a quantidade de letras digitadas,
- * sem utilizar strlen.
- */
 #include <stdio.h>
 
 int main(void) {

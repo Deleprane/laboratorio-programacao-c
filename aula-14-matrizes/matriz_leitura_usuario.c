@@ -1,8 +1,3 @@
-/*
- * Aula 14 - Atividade 2
- * Ler quatro valores digitados pelo usuario, armazena-los
- * em uma matriz 2x2 e exibir a matriz.
- */
 #include <stdio.h>
 
 int main(void) {

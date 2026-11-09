@@ -1,15 +1,7 @@
-/*
- * Aula 15 - Exercicio para entrega
- * Reserva de assentos no cinema
- *
- * O cinema possui 3 fileiras com 4 assentos cada.
- * 0 = assento disponivel | 1 = assento ocupado
- * O programa percorre a matriz e apresenta a quantidade
- * de assentos ocupados e disponiveis.
- */
 #include <stdio.h>
 
 int main(void) {
+    // 0 = disponivel, 1 = ocupado
     int assentos[3][4] = {
         {1, 0, 1, 1},
         {0, 0, 1, 0},

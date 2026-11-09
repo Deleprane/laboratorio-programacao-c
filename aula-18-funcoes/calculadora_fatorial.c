@@ -1,8 +1,3 @@
-/*
- * Aula 18 - 6a Questao
- * Calcula o fatorial de um numero inteiro entre 0 e 12
- * usando a funcao calcularFatorial() com for.
- */
 #include <stdio.h>
 
 int calcularFatorial(int numero) {

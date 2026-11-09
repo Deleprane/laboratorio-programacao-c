@@ -1,9 +1,3 @@
-/*
- * Aula 17 - 2a Questao
- * Cadastro de produtos de uma loja de informatica
- * (categoria HARDWARE ou PERIFERICO) usando strlen, strcmp,
- * strcpy e strcat.
- */
 #include <stdio.h>
 #include <string.h>
 

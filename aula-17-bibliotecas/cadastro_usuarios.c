@@ -1,8 +1,3 @@
-/*
- * Aula 17 - 1a Questao
- * Cadastro de usuarios e identificacao do perfil de acesso
- * (ADMIN ou COMUM) usando strlen, strcmp, strcpy e strcat.
- */
 #include <stdio.h>
 #include <string.h>
 
