@@ -12,7 +12,7 @@ int main(void) {
         contador++;
     }
 
-    printf("\nA palavra \"%s\" possui %d caracteres.\n", palavra, contador);
+    printf("\nA palavra %s possui %d caracteres.\n", palavra, contador);
 
     return 0;
 }

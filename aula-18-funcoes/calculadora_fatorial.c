@@ -4,7 +4,7 @@ int calcularFatorial(int numero) {
     int fatorial = 1;
 
     for (int i = 2; i <= numero; i++) {
-        fatorial *= i;
+        fatorial = fatorial * i;
     }
 
     return fatorial;
