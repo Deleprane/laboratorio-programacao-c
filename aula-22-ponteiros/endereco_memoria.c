@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(void) {
+    int numero;
+
+    printf("===== ENDERECO DE MEMORIA =====\n\n");
+
+    printf("Digite um numero: ");
+    scanf("%d", &numero);
+
+    printf("\nValor: %d\n", numero);
+    printf("Endereco de memoria: %p\n", (void *) &numero);
+
+    return 0;
+}
